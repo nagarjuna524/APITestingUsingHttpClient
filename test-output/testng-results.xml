@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="794" started-at="2017-10-16T09:49:33Z" finished-at="2017-10-16T09:49:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="794" started-at="2017-10-16T09:49:33Z" finished-at="2017-10-16T09:49:34Z">
+      <class name="edu.cigniti.ApiTests">
+        <test-method status="PASS" signature="testUsingClosableHttpClient()[pri:0, instance:edu.cigniti.ApiTests@5ae9a829]" name="testUsingClosableHttpClient" duration-ms="535" started-at="2017-10-16T15:19:33Z" finished-at="2017-10-16T15:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingClosableHttpClient -->
+        <test-method status="PASS" signature="testUsingDefaultHttpClient()[pri:0, instance:edu.cigniti.ApiTests@5ae9a829]" name="testUsingDefaultHttpClient" duration-ms="258" started-at="2017-10-16T15:19:34Z" finished-at="2017-10-16T15:19:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testUsingDefaultHttpClient -->
+      </class> <!-- edu.cigniti.ApiTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
